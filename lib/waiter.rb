@@ -18,4 +18,7 @@ class Waiter
       meal.waiter == self
     end
   end
+  def best_tipper
+    
+  end
   end
